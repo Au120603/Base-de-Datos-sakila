@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": [
+        "SRC/com/sakila"
+    ],
+    "java.project.referencedLibraries": [
+        "a:\\almon\\Programas\\VS Code\\Proyecto final prog2\\lib\\jackson-databind-2.18.1.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Remota",
+            "database": "Sakila",
+            "username": "root",
+            "connectionTimeout": 50,
+            "askForPassword": true
+        }
+    ]
+}
